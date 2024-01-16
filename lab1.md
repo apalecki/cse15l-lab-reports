@@ -37,8 +37,31 @@ Using the command with a path to a directory as an argument:
 * Having a directory as the argument for the `ls` command lead to all the contents of the directory being printed out.
 * The output was not an error.
 
+
 Using the command with a path to a file as an argument:
 ![Image](lab1-6.jpg)
 * Working directory was `/home/lecture1`
 * Having a file as the argument for the `ls` command lead to the file we used as the argument being printed out (in this case the `Hello.java` was printed out).
+* The output was not an error.
+
+## `cat` command
+
+Using the command without arguments:
+![Image](lab1-7.jpg)
+* Working directory was `/home/lecture1`
+* Having no arguments with the `cat` command caused the terminal to become bugged. As a result of this I had to create a new terminal.
+* There was no error code outputted but it did cause the terminal to become bugged.
+
+
+Using the command with a path to a directory as an argument:
+![Image](lab1-8.jpg)
+* Working directory was `/home/lecture1`
+* Having a path to a directory as an argument caused the terminal to print out `cat: messages: Is a directory` to be printed out.
+* The output was an error that notified me that the argument I tried to use `cat` on was a directory and not a file.
+
+
+Using the command with a path to a file as an argument:
+![Image](lab1-9.jpg)
+* Working directory was `/home/lecture1`
+* Having a path to a file as an argument caused the terminal to print out the contents of the file ( In this case the contents of `en-us.txt` were printed out).
 * The output was not an error.
