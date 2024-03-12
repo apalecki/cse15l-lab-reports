@@ -21,4 +21,4 @@ I ran the `test.sh` script again to check if my changes worked and they did. I d
 
 # Comit to git
 ![image](https://github.com/apalecki/cse15l-lab-reports/assets/104041328/3e399a74-b4ac-4ba2-a87c-afabaa287741)
-
+I commited my changes to my fork on github by typing `git add ListExamples.java` and clicked `<enter>`, then I typed `git commit -m "Lab Report"`. Next, I typed `git push origin` and clicked `<enter>` which finally pushed all of my changes to the git repo.
