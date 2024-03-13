@@ -8,10 +8,14 @@ TA:
 Okay maybe you should start by checking your `ArrayTests` file to see if there is any bugs. Does anything out of the ordinary catch your eye?
 
 Student:
-*before*
+*Before*
+***
 ![image](https://github.com/apalecki/cse15l-lab-reports/assets/104041328/a39e8438-6bf2-4d2f-8233-edb4cc802db0)
-*after*
+***
+*After*
+***
 ![image](https://github.com/apalecki/cse15l-lab-reports/assets/104041328/aa6f9d39-abf7-4fa8-909f-71401ca431df)
+***
 I see in my `ArrayTests.java` file both of my testing methods have bugs and I think I've fixed them, can you check and let me know?
 
 TA:
